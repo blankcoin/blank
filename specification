@@ -1,0 +1,42 @@
+
+Name: Blankcoin
+Ticker: BC
+Algorithm: Scrypt
+Type: POW/POS
+Maturity: 20 Confirmations
+Max Supply: 100 000 000 000
+Premine: 10 000 000
+Min Stake Age: 3 hours
+Max Stake Age: 30 days
+Block Time: 60 seconds
+Diff retarget: 5 minutes
+rpc-port: 51556
+port: 51555
+
+
+Proof of Stake
+1                   0%
+1-5000              250%
+5001-10000          500%
+10001-25000         750%
+25001-45000         1000%
+45001-65000         1500%
+65001-85000         2500%
+85001-100000        1500%
+100001-125000       1000%
+125001-250000       750%
+250001-500000       500%
+500001-1000000      250%
+1000001-Infinity    100%
+
+Proof of Work
+1                 Premine (10M)
+1-1500            0
+1501-10000        50
+10001-25000       40
+25001-35000       30
+35001-50000       20
+50001-75000       10
+75001-100000      5
+100001-250000     1
+250001-Infinity   0.5

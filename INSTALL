@@ -1,0 +1,9 @@
+Building Blank
+
+See doc/readme-qt.rst for instructions on building Blank QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Blank.
+
+See doc/build-*.txt for instructions on building blankd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Blank.
